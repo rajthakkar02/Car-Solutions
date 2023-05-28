@@ -1,6 +1,4 @@
 .cardsCar {
-  margin: 30px;
+  margin: 20px;
   padding: 20px;
-  display: flex;
-  justify-content: space-evenly;
 }
